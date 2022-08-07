@@ -1,5 +1,5 @@
 # Projeto-Mysql - Farmacia
-Modelagem de dados, criação de tabelas, consultas simples e complexas, atualizaçâo de dados e exclusâo de dados.
+Modelagem de dados, criação de tabelas, consultas simples e complexas, atualizaçâo de dados e exclusão de dados.
 
 Contextualizando…
 Os analistas de sistemas estão desenvolvendo um sistema para uma empresa e foram fazer diversas
